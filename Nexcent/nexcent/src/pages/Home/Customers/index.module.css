@@ -1,0 +1,27 @@
+.customerSection{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr 2fr);
+    align-content: flex-start;
+    gap: 1.5em;
+    margin-top: 40px;
+    margin-bottom:20px;
+    background: #F5F7FA;
+
+}
+
+.teslaSection{
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+}
+
+.logosSection{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.logoArea{
+    display: grid;
+    grid-template-columns: repeat(1, 2.5fr 0.5fr);
+}

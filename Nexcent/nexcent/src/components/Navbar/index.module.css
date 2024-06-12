@@ -12,3 +12,46 @@
     justify-content: center;
     align-items: center;
 }
+
+@media only screen and (max-width: 600px) {
+    .nav {
+        display: block;
+        gap: 40px;
+    }
+
+    /*.container {*/
+    /*    width: 100%;*/
+    /*    padding: 10px;*/
+    /*}*/
+
+    /*.header {*/
+    /*    background-color: #333;*/
+    /*    color: #fff;*/
+    /*    padding: 10px;*/
+    /*    text-align: center;*/
+    /*}*/
+
+    /*.menu {*/
+    /*    display: flex;*/
+    /*    flex-direction: column;*/
+    /*}*/
+
+    /*.menu li {*/
+    /*    margin: 5px;*/
+    /*    padding: 5px;*/
+    /*    background-color: #ccc;*/
+    /*    border-radius: 5px;*/
+    /*    text-align: center;*/
+    /*}*/
+
+    /*.main-content {*/
+    /*    padding: 10px;*/
+    /*}*/
+
+    /*.footer {*/
+    /*    background-color: #333;*/
+    /*    color: #fff;*/
+    /*    padding: 10px;*/
+    /*    text-align: center;*/
+    /*}*/
+}

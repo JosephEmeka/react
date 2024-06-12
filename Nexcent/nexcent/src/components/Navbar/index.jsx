@@ -30,7 +30,7 @@ const Navbar = () => {
                                 borderRadius: "4px",
                                 background: "#4caf4f",
                                 color: "#fff",
-                                border: "none"}}>SignUp
+                                border: "none"}}>Sign Up
                 </button>
             </div>
         </div>

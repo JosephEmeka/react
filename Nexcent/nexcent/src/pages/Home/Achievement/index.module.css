@@ -1,0 +1,21 @@
+
+.achievementSection{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 20px;
+    margin-bottom:20px;
+    background: #F5F7FA;
+
+}
+
+.localBusiness{
+    display: grid;
+    grid-template-columns: repeat(1, 0.5fr 2.5fr);
+    align-content: flex-start;
+}
+
+.statsContainer{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+

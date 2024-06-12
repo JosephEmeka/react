@@ -2,6 +2,8 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    margin-top: 30px;
+    margin-bottom:30px
 }
 .client >h4{
     font-weight: bold;
@@ -16,9 +18,10 @@
 }
 .member > p{
     font-weight: bolder;
-    font-size: 20px;
+    font-size: 36px;
     margin-bottom: 0;
 }
+
 .member{
     display: flex;
     flex-direction: column;
@@ -30,3 +33,4 @@
     align-items: center;
     gap: 20px
 }
+

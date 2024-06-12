@@ -1,5 +1,5 @@
 import styles from './index.module.css'
-import img from '../../../asset/heroImg.jpg'
+import img from '../../../asset/Illustration.png'
 const Hero = () => {
 
     return (

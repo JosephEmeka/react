@@ -1,0 +1,12 @@
+.unlockSection{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 20px;
+    margin-bottom:20px
+}
+
+.unlockImage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

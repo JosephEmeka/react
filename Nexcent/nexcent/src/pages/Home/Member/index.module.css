@@ -1,0 +1,8 @@
+.member2{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: space-evenly;
+    padding-right: 10px;
+    align-items: center;
+    gap: 20px
+}
